@@ -2,17 +2,17 @@
 #EXTINF:-1, BT SPORTS
  
 #EXTINF:0,|UK| BT SPORTS 1 FHD UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/3600.ts
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50866
 #EXTINF:0,|UK| BT SPORTS 2 FHD UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/3601.ts
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50868
 #EXTINF:0,|UK| BT SPORTS 3 FHD UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/3602.ts
-#EXTINF:0,|DSTV| BT EXTRA 3 FHD UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/3604.ts
+#EXTVLCOPT:http-user-agent=REDLINECLIENT 
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50870
+#EXTINF:0,|DSTV| BT ESPN UK
+#EXTVLCOPT:http-user-agent=REDLINECLIENT 
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50850
 #EXTINF:0,|UK| MUTV_SPORTS FHD UK
-#EXTVLCOPT:http-user-agent=REDLINECLIENT_DREAMSAT_650HD_PRO V2.8.73 
-http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/1476.ts
+#EXTVLCOPT:http-user-agent=REDLINECLIENT 
+http://dream4k.co:2082/DM_UNITEDKINGDOOM/gbU78hyg/50866
